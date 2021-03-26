@@ -1,0 +1,6 @@
+npx @zeplin/cli connect initialize \
+    --styleguide-id 605d8dd603eefb3272699011 \
+    --component-id 605d8ed8f9ce0906ad7122ec
+npx @zeplin/cli connect initialize \
+    --styleguide-id 605d8dd603eefb3272699011 \
+    --component-id 605d8ed81b04cc13ac492cf2
